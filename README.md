@@ -4,7 +4,7 @@
 ## Description
 This is my calculator project from the first javascript class illustrating the use of functions and methods.
 ## Setup/Installation Requirements
-* To checkout this project, you can follow this link at  on github pages.
+* To checkout this project, you can follow this link at https://okello-ojok.github.io/calculator on github pages.
 
 ## Technologies Used
    This portfolio is based on javascript, HTML and CSS.
